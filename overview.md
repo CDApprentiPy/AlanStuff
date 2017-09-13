@@ -14,13 +14,13 @@
                 - Monday: ERD && MySQL
                 - Tuesday: MySQL  && MySQL/Flask
                 - Wednesday: TDD
-                - Thursday: APIs and AJAX with Flask
-                - Friday: Wall
+                - Thursday: WALL
+                - Friday: MVC Wall && Django 101
 ## Week 3
         - #### Intro to Django
         - Week Schedule:
-                - Monday: MVC Wall && Django 101
-                - Tuesday: Django Views+Controllers && TDD
+                - Monday: Django Views+Controllers && TDD
+                - Tuesday: Django Routing?
                 - Wednesday: Models + ORMs
                 - Thursday: Moodles + ORMs
                 - Friday: Multiple Apps + Wall

@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ninja gold Yo!</title>
+    </head>
+    <body>
+        <a href="/clear">help!</a>
+        <header>
+            Your Gold: {{ context['money'] }}
+        </header>
+        <main>
+            <form action="/process" method="post">
+                <h2>FARM STUFF</h2>
+                <input type="hidden" name='activity' value="farm">
+                <input type="submit" value="farm the stuff">
+            </form>
+            <form action="/process" method="post">
+                <h2>mine STUFF</h2>
+                <input type="hidden" name='activity' value="mine">
+                <input type="submit" value="mine the stuff">
+            </form>
+            <form action="/process" method="post">
+                <h2>gamble STUFF</h2>
+                <input type="hidden" name='activity' value="gamble">
+                <input type="submit" value="gamble the stuff">
+            </form>
+            <form action="/process" method="post">
+                <h2>dragon STUFF</h2>
+                <input type="hidden" name='activity' value="dragon">
+                <input type="submit" value="dragon the stuff">
+            </form>
+        </main>
+        <footer>
+            {{ context['mess']}}
+            <ul>
+                {% for message in context['mess'] %}
+                <li>{{message}}</li>
+                {%  endfor %}
+            </ul>
+        </footer>
+    </body>
+</html>
