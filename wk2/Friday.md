@@ -10,3 +10,18 @@
 3  pm - Open
 4  pm - Demo
 5  pm - EOD Check In
+
+### Lectures
+-AM: The Wall with Bells and Whistles!
+    - Structure
+    - Tests!
+
+
+
+-PM: Django and MVC!
+    - MVC? How might we break our app into smaller pieces?
+        - Should end up with:
+            ~ "logic"     - Views!
+            ~ "database"  - Models!
+            ~ "front-end" - Templates!
+        

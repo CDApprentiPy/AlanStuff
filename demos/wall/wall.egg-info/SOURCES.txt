@@ -1,0 +1,8 @@
+MANIFEST.in
+wall/__init__.py
+wall/mysqlconnection.py
+wall/wall.py
+wall.egg-info/PKG-INFO
+wall.egg-info/SOURCES.txt
+wall.egg-info/dependency_links.txt
+wall.egg-info/top_level.txt

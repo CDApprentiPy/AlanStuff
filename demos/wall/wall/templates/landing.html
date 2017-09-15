@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>The Wall</title>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to the Wall</h1>
+            <a href="/logout">LogOut</a>
+        </header>
+        <main>
+            <div>
+                <form action="/register" method="post">
+                    First Name: <input type="text" name="first_name">
+                    Last Name: <input type="text" name="last_name">
+                    eMail: <input type="text" name="email">
+                    Password: <input type="password" name="password">
+                    Confirm: <input type="password" name="c_password">
+                    <input type="submit" value="Register!">
+                </form>
+            </div>
+            <form action="/login" method="post">
+                eMail: <input type="text" name="email">
+                password: <input type="password" name="password">
+                <input type="submit" value="Login!">
+            </form>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
