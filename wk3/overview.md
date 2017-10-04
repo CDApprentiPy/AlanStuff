@@ -6,29 +6,29 @@
 ### The Board
 Monday:
     - Algorithms
-        - Topic: 
-    - AM Lecture
         - Topic:
+    - AM Lecture
+        - Topic: Django Views and Templates
         - Group Activity:
     - PM Lecture
-        - Topic:
+        - Topic: REGEX
         - Group Activity:
     - EOD:
 Tuesday:
     - Algorithms
         - Topic: 
     - AM Lecture
-        - Topic:
+        - Topic: ORMS!
         - Group Activity:
     - PM Lecture
-        - Topic:
+        - Topic: 
         - Group Activity:
     - EOD:
 Wednesday:
     - Algorithms
         - Topic: 
     - AM Lecture
-        - Topic:
+        - Topic: 
         - Group Activity:
     - PM Lecture
         - Topic:

@@ -20,7 +20,7 @@ Tuesday:
     - AM Lecture
         - Topic:
         - Group Activity:
-    - PM Lecture
+    - PM Lecture [GOTTA COVER MINH's ONLINE LECTURE!!!!]
         - Topic:
         - Group Activity:
     - EOD:
@@ -28,7 +28,7 @@ Wednesday:
     - Algorithms
         - Topic: 
     - AM Lecture
-        - Topic:
+        - Topic: Deployment
         - Group Activity:
     - PM Lecture
         - Topic:

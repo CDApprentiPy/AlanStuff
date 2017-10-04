@@ -1,0 +1,22 @@
+{% extends 'logg/layout.html' %}
+
+{% block content%}
+<main>
+    <div>
+        <h2>Register</h2>
+        <form action="" id="regform">
+            {% csrf_token %}
+            {{regform}}
+            <input type="submit" value="Register">
+        </form>
+    </div>
+    <div>
+        <h2>Log in</h2>
+        <form action="" id="logform">
+            {% csrf_token %}
+            {{logform}}
+            <input type="submit" value="Log In">
+        </form>
+    </div>
+</main>
+{% endblock %}

@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>NINJAGOLD WEWT</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <header>
+            <h1>Hi this in ninja golds</h1>
+            <h4>you has this much gold: {{golds}}</h4>
+        </header>
+        <main>
+            <div>
+                <h4>Mine</h4>
+                <form action="{href golds:processactivty }" method="post">
+                    {% csrf_token %}
+                    <input type="hidden" name="activity" value="mine">
+                    <input type="submit" value="mine">
+                </form>
+            </div>
+        </main>
+    </body>
+</html>

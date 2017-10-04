@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Trips!</title>
+    </head>
+    <body>
+        <form id="logform"></form>
+        <form id="regform" action="{% url "users:create" %}" method="POST">
+            {% csrf_token %}
+            {{ regform.as_p }}
+            <input type="submit" value="register!">
+        </form>
+    </body>
+</html>

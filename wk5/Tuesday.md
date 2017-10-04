@@ -1,0 +1,57 @@
+AM Lecture
+- START AT 10 sharp today!!!!!!!!
+- Reminder of Activity Day on Thursday
+    - get some ideas of things to do... 4 square?
+- Food Purge Soon? :D yay water for all! and Coffehs :D
+- Today:
+    - Exploring Python and getting more comfortable with different modules
+    - AM: The Django Rest Framework
+        - 10am - DRF + Assignment + Blogs and Posts? yuck :( hrmmm...
+            - Super fast DRF TDD User logreg
+            - DRF is a tool to help build API functionality quickly
+            - It takes the django built ins one step further
+                - ViewSets!
+                - URL routers
+            - Serializers
+                - like ORMS but tweaked to go between different places
+            - Group Activity:
+                - AJAX form submission
+        - 11am - Module Assignment Go!
+            - Modules
+                - https://wiki.python.org/moin/UsefulModules
+                - https://docs.python.org/3/library/index.html
+                - SL
+                    - os
+                    - re
+                    - unittest
+                    - math
+                    - sys
+                    - datetime
+                    - itertools
+                    - functools
+                    - shutil
+                    - logging
+                    - urllib/2
+                    - timeit
+                - NSL
+                    - requests
+                    - scrapy/beautifulsoup
+                    - IPython
+                    - nose/pytest/mock
+                    - PyGame/pyglet
+        - Noon - Gymnasiums and lunches!
+        -  1pm - Module Research Woo! A Lot of ppl will be Black Belting :(
+        -  2pm - Presentations + Sharing of condensed works
+        -  3pm - TDD, Explore modules, Belts, &More
+            - Assignments:
+                - TDD:
+                    - NinjaGold
+                    - LogReg
+                    - Books & Authors
+                - DRF:
+                    - How can we do something cool?
+                - Modules:
+                    - TBD
+                - UserAuth:
+                    - LogReg pt I & II
+    - PM: Python Module presentation
